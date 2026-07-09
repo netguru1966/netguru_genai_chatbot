@@ -1,4 +1,4 @@
-🚀 In this comprehensive, hands-on tutorial, we'll guide you through the entire process of building and deploying a powerful Generative AI (GenAI) chatbot application using the Retrieval-Augmented Generation (RAG) technique on the AWS cloud. 
+🚀 In this comprehensive, hands-on tutorial, I will guide you through the entire process of building and deploying a powerful Generative AI (GenAI) chatbot application using the Retrieval-Augmented Generation (RAG) technique on the AWS cloud. 
 
 🔥 What You'll Learn & Build:
 Document Analysis Chatbot: Create a sophisticated chatbot that can analyze market study documents and accurately answer your questions by extracting relevant information.
